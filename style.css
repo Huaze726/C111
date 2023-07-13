@@ -1,0 +1,22 @@
+body{
+    background-color: lightblue;
+}
+
+.img-rec-txt{
+    width: 70%;
+    font-size: 30px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.img-rec-txt:hover{
+    text-decoration: underline;
+    font-size: 33px;
+}
+.camera{
+    border: 1px;
+    border-style: dashed;
+    height: 400px;
+    width: 400px;
+}
